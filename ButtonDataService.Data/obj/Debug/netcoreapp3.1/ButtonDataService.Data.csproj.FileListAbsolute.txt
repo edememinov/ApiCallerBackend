@@ -1,0 +1,9 @@
+C:\Users\edeme\source\repos\ButtonDataService\ButtonDataService.Data\bin\Debug\netcoreapp3.1\ButtonDataService.Data.deps.json
+C:\Users\edeme\source\repos\ButtonDataService\ButtonDataService.Data\bin\Debug\netcoreapp3.1\ButtonDataService.Data.dll
+C:\Users\edeme\source\repos\ButtonDataService\ButtonDataService.Data\obj\Debug\netcoreapp3.1\ButtonDataService.Data.csprojAssemblyReference.cache
+C:\Users\edeme\source\repos\ButtonDataService\ButtonDataService.Data\obj\Debug\netcoreapp3.1\ButtonDataService.Data.AssemblyInfoInputs.cache
+C:\Users\edeme\source\repos\ButtonDataService\ButtonDataService.Data\obj\Debug\netcoreapp3.1\ButtonDataService.Data.AssemblyInfo.cs
+C:\Users\edeme\source\repos\ButtonDataService\ButtonDataService.Data\bin\Debug\netcoreapp3.1\ButtonDataService.Data.pdb
+C:\Users\edeme\source\repos\ButtonDataService\ButtonDataService.Data\obj\Debug\netcoreapp3.1\ButtonDataService.Data.csproj.CoreCompileInputs.cache
+C:\Users\edeme\source\repos\ButtonDataService\ButtonDataService.Data\obj\Debug\netcoreapp3.1\ButtonDataService.Data.dll
+C:\Users\edeme\source\repos\ButtonDataService\ButtonDataService.Data\obj\Debug\netcoreapp3.1\ButtonDataService.Data.pdb

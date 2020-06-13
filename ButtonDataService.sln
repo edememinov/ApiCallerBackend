@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonDataService", "ButtonDataService\ButtonDataService.csproj", "{8F92E3AC-C7F8-43D9-A709-64AFBF78560A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonDataService.Data", "ButtonDataService.Data\ButtonDataService.Data.csproj", "{C3EF6BFB-7852-479A-BFF2-5673FBD7304B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F92E3AC-C7F8-43D9-A709-64AFBF78560A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F92E3AC-C7F8-43D9-A709-64AFBF78560A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F92E3AC-C7F8-43D9-A709-64AFBF78560A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F92E3AC-C7F8-43D9-A709-64AFBF78560A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3EF6BFB-7852-479A-BFF2-5673FBD7304B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3EF6BFB-7852-479A-BFF2-5673FBD7304B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3EF6BFB-7852-479A-BFF2-5673FBD7304B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3EF6BFB-7852-479A-BFF2-5673FBD7304B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E31F84C5-CEE0-4770-9DBD-C91536F102BF}
+	EndGlobalSection
+EndGlobal
